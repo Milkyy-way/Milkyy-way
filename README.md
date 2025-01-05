@@ -11,8 +11,6 @@
   <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="60%" height="30%" alt="activity graph" /></p>
 </div>
 
-<br/>
-
 <!-- GIF -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
@@ -23,8 +21,6 @@
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=java,swift,c,cpp,postgresql,mongodb" height="30" alt="java logo" />
 </div>
-
-<h2 align="center">🛠 Additional Tools 🛠</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux" height="30" alt="cloud tools" />
   <img width="20" />
