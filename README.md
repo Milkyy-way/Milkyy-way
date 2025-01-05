@@ -57,7 +57,7 @@
 <br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto" />
+  <img src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
