@@ -17,7 +17,7 @@
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="1200" height="1000" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="1500" height="300" alt="activity graph" />
 </div>
 
 <!-- GIF -->
