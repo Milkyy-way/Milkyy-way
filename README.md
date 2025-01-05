@@ -8,10 +8,10 @@
 <!-- Stats Section -->
 <div align="center">
   <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars" height="100" alt="stats graph" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph" />
   
  
 
