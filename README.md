@@ -19,69 +19,22 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,react,javascript,typescript,git,gitlab,github" height="30" alt="python logo" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" height="30" alt="scipy logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="30" alt="scikit-learn logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" alt="keras logo" />
+  <img src="https://skillicons.dev/icons?i=java,swift,c,cpp,postgresql,mongodb" height="30" alt="java logo" />
 </div>
 
-<!-- Additional Tools -->
 <h2 align="center">🛠 Additional Tools 🛠</h2>
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Splunk_Logo.svg" height="30" alt="Splunk logo" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux" height="30" alt="cloud tools" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/New_Relic_Logo.svg" height="30" alt="New Relic logo" />
+  <img src="https://skillicons.dev/icons?i=figma,notion,vs,git" height="30" alt="design tools" />
   <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Datadog_logo.svg" height="30" alt="Datadog logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Kibana_Logo.svg" height="30" alt="Kibana logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Tableau_Logo_2013.png" height="30" alt="Tableau logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Power_BI_Logo.svg" height="30" alt="Power BI logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Excel_Logo_2013.svg" height="30" alt="Excel logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Linux_logo.svg" height="30" alt="Linux logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Bitbucket_logo_2020.svg" height="30" alt="Bitbucket logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Jira-Software-Logo.svg" height="30" alt="Jira logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Snowflake_Logo_2016.svg" height="30" alt="Snowflake logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Docker_logo.png" height="30" alt="Docker logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/MySQL_logo.svg" height="30" alt="MySQL logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_SQL_Server_Logo.png" height="30" alt="MSSQL logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Oracle_logo.svg" height="30" alt="Oracle logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/MongoDB_Logo.svg" height="30" alt="MongoDB logo" />
-  <img width="20" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Neo4j_Logo.svg" height="30" alt="Neo4j logo" />
+  <img src="https://skillicons.dev/icons?i=postman,graphql,jest,webpack" height="30" alt="testing tools" />
 </div>
 
+<br/>
+<h2 align="center">⛓️‍💥 Connect with me ⛓️‍💥</h2>
 <!-- Social Links -->
 <div align="left">
   <!-- LinkedIn -->
