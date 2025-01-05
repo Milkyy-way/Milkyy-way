@@ -5,6 +5,8 @@
 <h2 align="center">⚡ Activity Graph ⚡</h2>
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="80%" height="auto" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars,issues" height="150" alt="stats graph" />
+</p>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=dracula" alt="Milkyy-way" width="60%" height="auto" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=dracula" alt="Saurav Kumar" width="60%" height="auto" /></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&hide_progress=true" width="60%" height="auto" /></p>
