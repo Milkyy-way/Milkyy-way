@@ -11,8 +11,8 @@
 
 
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&theme=dracula&hide_border=false" alt="streak stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 
 
 
