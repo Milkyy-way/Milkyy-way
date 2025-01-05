@@ -54,4 +54,4 @@
 </div>
 
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/SauravKumar/SauravKumar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/snake.svg" alt="Snake animation" />
