@@ -1,24 +1,19 @@
 <h2 align="left">Hi 👋! My name is SAURAV KUMAR</h2>
 
-<!-- Trophies -->
-<div align="right">
-  <img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="800" />
+
+<br/>
+<h2 align="center">⚡ Activity Graph ⚡</h2>
+<div align="center">
+<p><img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="80%" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=tokyonight" alt="shubhamsingh" width="80%" height="auto"  /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" width="80%" height="auto" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" width="80%" height="auto" /></p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="80%" height="30%" alt="activity graph" /></p>
 </div>
 
-<!-- Stats Section -->
-<div align="center">
-  <!-- Stats Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars" height="120" alt="stats graph" />
-  
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph" />
-  
- 
+<br/>
 
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="800" height="300" alt="activity graph" />
-</div>
+
 
 <!-- GIF -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
