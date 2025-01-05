@@ -1,19 +1,16 @@
 <h2 align="left">Hi 👋! My name is SAURAV KUMAR</h2>
 
-
 <br/>
 <h2 align="center">⚡ Activity Graph ⚡</h2>
 <div align="center">
-<p><img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="80% height="auto" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=tokyonight" alt="shubhamsingh" width="80%" height="auto"  /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=tokyonight" alt="shubhamsingh" width="80%" height="auto" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" width="80%" height="auto" /></p>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="80%" height="30%" alt="activity graph" /></p>
+  <p><img src="https://github-profile-trophy.vercel.app/?username=SauravKumar&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="80%" height="auto" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=SauravKumar&&theme=tokyonight" alt="Saurav Kumar" width="80%" height="auto" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=SauravKumar&show_icons=true&locale=en&theme=tokyonight" alt="Saurav Kumar" width="80%" height="auto" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SauravKumar&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" width="80%" height="auto" /></p>
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=SauravKumar&theme=dracula&hide_border=false&area=true" width="80%" height="30%" alt="activity graph" /></p>
 </div>
 
 <br/>
-
-
 
 <!-- GIF -->
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
@@ -39,7 +36,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <!-- Devpost -->
-  <a href="https://devpost.com/Milkyy-way?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+  <a href="https://devpost.com/SauravKumar?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=0033CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devpost logo" />
   </a>
   <!-- Portfolio -->
@@ -56,6 +53,5 @@
   </a>
 </div>
 
-
 <!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SauravKumar/SauravKumar/output/snake.svg" alt="Snake animation" />
