@@ -5,12 +5,15 @@
 <h2 align="center">⚡ Activity Graph ⚡</h2>
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="60%" height="auto" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&hide=stars,issues" width="60%" height="auto" alt="stats graph" />
+  <p><img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars,issues" width="60%" height="auto" alt="stats graph" />
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=8&hide_progress=true" width="60%" height="auto" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&hide_progress=true" width="60%" height="auto" /></p>
  
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=dark" alt="Milkyy-way" width="60%" height="auto" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=dracula" alt="Milkyy-way" width="60%" height="auto" /></p>
   <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="60%" height="30%" alt="activity graph" /></p>
+  
+  
+  
 </div>
 
 <!-- GIF -->
@@ -63,3 +66,4 @@
   <img src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
+	
