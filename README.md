@@ -7,8 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-<img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&exclude=Stars,Reviews" alt="trophies" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" />
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false" alt="activity graph" />
