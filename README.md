@@ -4,10 +4,10 @@
 <h2 align="center">⚡ Activity Graph ⚡</h2>
 <div align="center">
   <p><img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="80%" height="auto" /></p>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=tokyonight" alt="Milkyy-way" width="80%" height="auto" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=tokyonight" alt="Saurav Kumar" width="80%" height="auto" /></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" width="80%" height="auto" /></p>
-  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="80%" height="30%" alt="activity graph" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=tokyonight" alt="Milkyy-way" width="60%" height="auto" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=tokyonight" alt="Saurav Kumar" width="60%" height="auto" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_progress=true" width="60%" height="auto" /></p>
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="60%" height="30%" alt="activity graph" /></p>
 </div>
 
 <br/>
@@ -53,5 +53,9 @@
   </a>
 </div>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/snake.svg" alt="Snake animation" />
+<br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Milkyy-way/Milkyy-way/output/github-contribution-grid-snake.svg" alt="contri graph" width="100%" height="auto" />
+  <br/><br/><br/>
+</div>
