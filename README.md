@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is SAURAV KUMAR</h2>
 
 <!-- Trophies -->
-<div align="center">
+<div align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" width="800" />
 </div>
 
