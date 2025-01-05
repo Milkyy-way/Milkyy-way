@@ -8,9 +8,11 @@
   <p><img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars,issues" width="60%" height="auto" alt="stats graph" />
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=8&hide_progress=true" width="60%" height="auto" /></p>
-  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="60%" height="30%" alt="activity graph" /></p>
+ 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&&theme=dracula" alt="Milkyy-way" width="60%" height="auto" /></p>
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&show_icons=true&locale=en&theme=dracula" alt="Saurav Kumar" width="60%" height="auto" /></p>
+  <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="60%" height="30%" alt="activity graph" /></p>
+  
+  
   
 </div>
 
