@@ -3,13 +3,26 @@
 ###
 
 <div align="center">
+ <div align="center">
+  <!-- Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Milkyy-way&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7&rank=A,B,C" alt="trophies" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&theme=dracula&hide_border=false" height="150" alt="streak graph" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" alt="activity graph" />
 
+<div align="center">
+  <!-- Stats Graph -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Milkyy-way&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&hide=stars" height="150" alt="stats graph" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milkyy-way&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <!-- Streak Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Milkyy-way&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milkyy-way&theme=dracula&hide_border=false&area=true" width="800" height="200" alt="activity graph" />
+</div>
 
 
 
